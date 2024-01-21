@@ -1,0 +1,5 @@
+export { default as BaseInput } from './BaseInput.vue'
+export { default as BaseSelect } from './BaseSelect.vue'
+export { default as BaseRadioGroup } from './BaseRadioGroup.vue'
+export { default as BaseRadio } from './BaseRadio.vue'
+export { default as BaseCheckbox } from './BaseCheckbox.vue'

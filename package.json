@@ -1,0 +1,22 @@
+{
+  "name": "vue-forms",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "url": "^0.11.3",
+    "vee-validate": "^4.12.4",
+    "vue": "^3.3.11"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.5.2",
+    "sass": "^1.70.0",
+    "vite": "^5.0.8",
+    "yup": "^1.3.3"
+  }
+}
